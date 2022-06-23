@@ -66,11 +66,11 @@ img {
 /*Slide*/
 
 .slide-1 {
-    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url(../images/Hero1.jpg);
+    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url(Hero1.jpg);
 }
 
 .slide-2 {
-    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url(../images/Hero2.jpg);
+    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url(Hero2.jpg);
 }
 
 .background-cover {
@@ -126,7 +126,7 @@ img {
 
 #features {
 
-    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url(../images/cover2.jpg);
+    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url(cover2.jpg);
 
 }
 
@@ -157,7 +157,7 @@ img {
 
 #review {
 
-    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url(../images/cover3.jpg);
+    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url(cover3.jpg);
 
 }
 
@@ -248,7 +248,7 @@ img {
 
 /*Footer*/
 footer {
-    background: linear-gradient(rgba(34, 34, 34, 0.7), rgba(34, 34, 34, 0.7)), url(../images/cover3.jpg);
+    background: linear-gradient(rgba(34, 34, 34, 0.7), rgba(34, 34, 34, 0.7)), url(cover3.jpg);
     padding-top: 120px;
     padding-bottom: 30px;
 
